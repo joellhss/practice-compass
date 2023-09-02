@@ -24,7 +24,8 @@ public class TestRunner {
         System.out.println(result);
         System.out.println(resultBoolean);
 
-
+        String str = "Test";
+        System.out.println(str.charAt(2));
 
         LocalDate date = LocalDate.now();
         System.out.println(date);
